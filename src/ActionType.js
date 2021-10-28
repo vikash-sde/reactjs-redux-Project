@@ -1,0 +1,9 @@
+//books
+export const GET_BOOKS = "GET_BOOKS";
+export const GET_BOOKS_SUCCESS = "GET_BOOKS_SUCCESS";
+export const GET_BOOKS_FAILED = "GET_BOOKS_FAILED";
+
+//characters
+export const GET_CHARACTERS = "GET_CHARACTERS";
+export const GET_CHARACTERS_SUCCESS = "GET_CHARACTERS_SUCCESS";
+export const GET_CHARACTERS_FAILED = "GET_CHARACTERS_FAILED";
