@@ -1,4 +1,4 @@
-# Radar Assignment
+# Universe of Ice And Fire Api Project
 
 Setup:
 - run ```npm i ``` for installing all the required packges.
